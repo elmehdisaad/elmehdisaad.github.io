@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/elmehdisaad/elmehdisaad.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a third year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of Gilles Blanchard and Sylvain Arlot. I graduated from Ecole Polytechnique with a focus in Applied Mathematics and obtained a Masters Degree in Statistics and Machine Learning from Paris-Saclay University. I also worked in the financial industry at Société Générale CIB as a Quant where I worked on the development of pricing models for volatitlity products.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research interests include Online learning and Bandits, Statistical learning theory and Optimization.  
+
 
 ### Markdown
 
