@@ -1,6 +1,6 @@
 ## About me
 
-I am a third year PhD student at the Laboratoire de Mathématique d'Orsay. I work under the supervision of Gilles Blanchard and Sylvain Arlot. I graduated from Ecole Polytechnique with a focus in Applied Mathematics and obtained a Masters Degree in Statistics and Machine Learning from Paris-Saclay University. I also worked in the financial industry at Société Générale CIB as a Quant where I worked on the development of pricing models for volatitlity products.  
+I am a third year PhD student at the Laboratoire de Mathématique d'Orsay and member of Inria Celeste. I work under the supervision of Gilles Blanchard and Sylvain Arlot. I graduated from Ecole Polytechnique with a focus in Applied Mathematics and obtained a Masters Degree in Statistics and Machine Learning from Paris-Saclay University. 
 
 My research interests include Online learning and Bandits, Statistical learning theory and Optimization.  
 
